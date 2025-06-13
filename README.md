@@ -14,7 +14,8 @@ Track your income and expenses dynamically and view your balance in real-time.
 - Stylish UI with clean design
 
 ## 📸 Screenshot
-![screenshot](./screenshot.png)
+![image](https://github.com/user-attachments/assets/3fb75550-d7eb-4957-b7aa-b563b46b19af)
+
 
 ## 🚀 How to Use
 1. Clone the repo
